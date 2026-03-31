@@ -22,6 +22,7 @@ oaisoftwarealliance/oai-nssf:develop
 oaisoftwarealliance/oai-pcf:develop
 oaisoftwarealliance/oai-lmf:develop
 oaisoftwarealliance/trf-gen-cn5g:jammy
+oaisoftwarealliance/ims:latest 
 mysql:8.0
 nginx
 #支持私库
